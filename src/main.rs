@@ -5,8 +5,6 @@ use std::cmp::Ordering;
 use rand::Rng;
 
 fn main() {
-    //allow input from the user
-
     //println with an "!" is a macro
     println!("Guess the number!");
 
